@@ -3,7 +3,7 @@ EssAi is a web-based platform that offers an innovative approach to essay gradin
 
 Developer Documentation - https://docs.google.com/document/d/1dxmEsJyrJrgY4QgrqvtA1WIPJisQ2EcD8wjQ1iVPAJs/edit?usp=sharing
 
-by - Joseph Gakah
+by - Joseph Gakah, Nuerollect
 <!--
 
 **Here are some ideas to get you started:**
